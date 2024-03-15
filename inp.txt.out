@@ -1,0 +1,16 @@
+Linear DNA folding at 37° C. [Na+] = 1.0, [Mg++] = 0.0.
+ 
+Structure    1
+ 
+Folding bases      1 to     16 of inp.txt
+ dG =     -2.31  dH =    -34.20  dS =   -102.82  Tm =   59.5 â„ƒ
+ 
+ 
+ 
+A---|  AT
+    CGT  \
+    GCA  A
+GATG^  TT
+     10
+ 
+ 

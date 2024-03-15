@@ -1,0 +1,13 @@
+Linear DNA folding at 37° C. [Na+] = 1.0, [Mg++] = 0.0.
+ 
+Structure    1
+ 
+inp.txt
+ dG =     -2.31  dH =    -34.20  dS =   -102.82  Tm =   59.5 â„ƒ
+ 
+ 
+External loop:	ddG =  -1.40   5 ss bases &  1 closing helices.
+Stack:		ddG =  -2.17 External closing pair is C(     2)-G(    12)
+Stack:		ddG =  -1.44 External closing pair is G(     3)-C(    11)
+Helix:		ddG =  -3.61   3 base pairs.
+Hairpin loop:	ddG =   2.70          Closing pair is T(     4)-A(    10)
